@@ -1,4 +1,9 @@
 # DocSim
+
+Langauage Used- Python3
+Detailed document is uploaded here in the Repo. Plesae check Project_final.pdf
+
+
 The problem of finding similarity score among all document set having pair of sentences and
 how Vector space can be used to solve it. A vector space is a mathematical structure formed
 by a collection of elements called vectors, which may be added together and multiplied
